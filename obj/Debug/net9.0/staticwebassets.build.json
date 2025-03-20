@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "g54scAVD1n8TyFg+mkcKafdylaqIqukp45yvlbN7JIw=",
+  "Source": "filmesApi",
+  "BasePath": "_content/filmesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
